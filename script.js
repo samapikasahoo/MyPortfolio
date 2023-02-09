@@ -29,4 +29,3 @@ let typed = new Typed(".typing",{
     loop: true
 });
 });
-
